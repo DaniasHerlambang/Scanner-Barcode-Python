@@ -4,6 +4,7 @@ this tool is connected to the database, auto update if barcode is identified
 
 # Requirement
 
-MySQLdb
+MySQLdb 
+
 zbar
 
